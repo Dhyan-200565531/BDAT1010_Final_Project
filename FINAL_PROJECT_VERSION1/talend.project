@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_FNlYkVc7Ee-lerhZ2HyWpA" label="Final_Project_Version1" description="Final Project version1" language="java" technicalLabel="FINAL_PROJECT_VERSION1" author="_FNlYklc7Ee-lerhZ2HyWpA" productVersion="Talend Cloud Data Management Platform-8.0.1.20231017_1026-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/Dhyan-200565531/BDAT1010_Final_Project&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DQ" itemsRelationVersion="1.3" bigData="false">
+    <migrationTask xmi:id="_FPLUAFc7Ee-lerhZ2HyWpA" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_FNlYklc7Ee-lerhZ2HyWpA" login="200575638@trial61008.us.talend.com" firstName="Manyue" lastName="Javvadi" type="DQ"/>
+</xmi:XMI>
